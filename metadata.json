@@ -1,0 +1,6 @@
+{
+  "name": "SB Crypto Trading Signals",
+  "description": "Real-time cryptocurrency trading signals, Binance spot & futures market scanner, interactive charts, and trading intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
